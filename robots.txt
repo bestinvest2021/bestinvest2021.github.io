@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /*µ_
-Disallow: /action/index/
-Disallow: /uk/
